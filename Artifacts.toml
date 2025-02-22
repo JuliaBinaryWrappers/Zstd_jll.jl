@@ -1,160 +1,160 @@
 [[Zstd]]
 arch = "aarch64"
-git-tree-sha1 = "7fab57b870c361fd74fc9164e66e4d1f82f24640"
+git-tree-sha1 = "8da603395acfbdbef8c5de3b7223aeb9276ecbdb"
 os = "macos"
 
     [[Zstd.download]]
-    sha256 = "c75c65e4aa90b1f6e489cddb8ce1b8cefd15ddae33be2330a952a5db2e5bd476"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.aarch64-apple-darwin.tar.gz"
+    sha256 = "485bae663917acbe119116dea01adbc690588dc5b175d42771c16e16e5b7e494"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.aarch64-apple-darwin.tar.gz"
 [[Zstd]]
 arch = "aarch64"
-git-tree-sha1 = "7e1d139313d467fc0dd377df71e1d343f83e9ca8"
+git-tree-sha1 = "1bf4b481ad6ca36ef56a0da90606b08aaef44373"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "0684652d393f508b03cf5ab812feafe207aa9f435fcb3a3e4d7441c62f5a61e2"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.aarch64-linux-gnu.tar.gz"
+    sha256 = "1e89e257b90b25bfadb4376cf7909772bf60d060948a844fe52bf924825e8cb5"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.aarch64-linux-gnu.tar.gz"
 [[Zstd]]
 arch = "aarch64"
-git-tree-sha1 = "cf3e3f46f61c759d92ee67350f060c2d0de629c1"
+git-tree-sha1 = "7f43eefba9b674d247f3a48010f7ed1860737a5b"
 libc = "musl"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "a5ed2c1237eef126dbfb6d7926744ddf38dccb4450ec5899f51dbfaf171292ac"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.aarch64-linux-musl.tar.gz"
+    sha256 = "4725346994b1720048082662788f9b3aca5602189ec209ec3f46d1d6495853c8"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.aarch64-linux-musl.tar.gz"
 [[Zstd]]
 arch = "aarch64"
-git-tree-sha1 = "a93918e4832442fd7f013c403dffeabcec528085"
+git-tree-sha1 = "1c75c4caaf89048b0a48bdcb945c26964e39a1d5"
 os = "freebsd"
 
     [[Zstd.download]]
-    sha256 = "d41d557205e34938d1d320ffcf2d52a76eb7cee6a2d1ceadc1984f8089c0977e"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "c7d13d6925c0342b498e334c3b8ee1e0b0e8927fa29cb448611d34edefedfcca"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.aarch64-unknown-freebsd.tar.gz"
 [[Zstd]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "dea88c1ffec07d7d83cb269aa4aab66f0b85b49c"
+git-tree-sha1 = "34f56172969c612fed22760b456a2a083e5100dc"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "18001adf0516ecbdb0f648685b073d7d5b1fd30e5c5776b49063cd960036023e"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "dff6b28343cc05d42aa3cdd48db0e8a6dea37a85dfb3faff91194c0cbe0551d1"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.armv6l-linux-gnueabihf.tar.gz"
 [[Zstd]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "97d653a0117de49d651056b31ab7ca3f1313df4f"
+git-tree-sha1 = "167126f7680bb55aadeb3684b8e845873f735bb8"
 libc = "musl"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "8b35d9354c885f5a7c2c54586f137ce41def7b67734e1fba11cd5f2a175616ec"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.armv6l-linux-musleabihf.tar.gz"
+    sha256 = "9c0d417f6508fcb92f87856fe30cf0cd0ef9bbe6ce5701df2c07b7cbf1a03f4c"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.armv6l-linux-musleabihf.tar.gz"
 [[Zstd]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "c518ab289bea0a90c8dd861269fb0ea5c7684c03"
+git-tree-sha1 = "46cb4c9462bd1948691d901ddb5d20483806f7e6"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "b3c4a3c7ff6f61f73c50baabb08de1c07a3fd54a77fde89233bf0483854d1737"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "2c4e261aa384988c88398287b4139ed80936d36f498c88d59e2d53a72d064a7f"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.armv7l-linux-gnueabihf.tar.gz"
 [[Zstd]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "10261deb1c1c43c4cbe8aa4a0f331ed9799cba9f"
+git-tree-sha1 = "e0747bbf10f4cf0adaa4c53cbdd8a66191cc78b6"
 libc = "musl"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "22ac6e95fc8e54f982daac1bbbdb8ef0dda5f99fa5d32c5bfcee45ecf500dfdb"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.armv7l-linux-musleabihf.tar.gz"
+    sha256 = "e246f3d555cfb83a5caed7df27f128c87d2c0bb4abb0c0e2792ebf00fffa8229"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.armv7l-linux-musleabihf.tar.gz"
 [[Zstd]]
 arch = "i686"
-git-tree-sha1 = "9f0b59a0159b5c4dfe3771c81c33857171fd28f6"
+git-tree-sha1 = "643f3c20a15bc8ef20f36e4496ad780d714afec9"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "8f96c0f3450b787d2786e07aa268d9bae0047e629d21e9ee3a6aeaf1b785d2cd"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.i686-linux-gnu.tar.gz"
+    sha256 = "070c370f2656b5805ad86c587767342adcc5f132983c6da1d273e99c8b6b8ff4"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.i686-linux-gnu.tar.gz"
 [[Zstd]]
 arch = "i686"
-git-tree-sha1 = "687782f16795ca701fcfdfdad1fdbc1a1fbabb4b"
+git-tree-sha1 = "627467768411843fbb5fb96ede2825898b763a61"
 libc = "musl"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "5fcedaec7b41894382006e3046bd0bfd68892ebed092dbba2ffcec3bf6660578"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.i686-linux-musl.tar.gz"
+    sha256 = "2c5e3638dfa8e38a6612439025ac285b38b5a7abb32566a4079ae25c9f9e218d"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.i686-linux-musl.tar.gz"
 [[Zstd]]
 arch = "i686"
-git-tree-sha1 = "1acdf9f39041527d89c96910c752d7fec6bfc141"
+git-tree-sha1 = "5b21d5d2a0b24522d4e0d903089504e6ef8a17b1"
 os = "windows"
 
     [[Zstd.download]]
-    sha256 = "ab04ac0bf03cfe7228acf641c6da25424aaed537cf9f3c4d4f4b823eddaf09b2"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.i686-w64-mingw32.tar.gz"
+    sha256 = "9f01e0047ce7aeccb660f63c18c218e95776686222ec2ee28785716f0fab7be3"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.i686-w64-mingw32.tar.gz"
 [[Zstd]]
 arch = "powerpc64le"
-git-tree-sha1 = "71cb629d2ac1df0995e276522a300d5c453010fd"
+git-tree-sha1 = "9005a6c97bb360d410282b8f5fcc960cab65246e"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "9116ddb95942f85b85286534ba0308034fc5b505bf9d4b3d343ba00560b4d22f"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "b5e2fa1032502dbafe2b8412a4552f960e1078dab94ef6fbe989db5a6b8e0220"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.powerpc64le-linux-gnu.tar.gz"
 [[Zstd]]
 arch = "riscv64"
-git-tree-sha1 = "827300d703bb8454dca0e49a2702982aecc793bd"
+git-tree-sha1 = "d6a7716af966a3aa87674e1a37b4f229660f706c"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "89378ef28a824de8635045e08406e641eb0daeb63b6122ddbcb9fa4cbbf8d1da"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.riscv64-linux-gnu.tar.gz"
+    sha256 = "a3edc382c5ed1d08a356cce669546316502b6ee5246b1a5169a8eb17a2e4a774"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.riscv64-linux-gnu.tar.gz"
 [[Zstd]]
 arch = "x86_64"
-git-tree-sha1 = "13c4dc4079a317aba2ec37f24f3886bea4ca99af"
+git-tree-sha1 = "7bf7d1870c28602218a07ee50c65b1bad5408850"
 os = "macos"
 
     [[Zstd.download]]
-    sha256 = "d502c63dc3fa3c9a3db985bd01d0e4ea3598f0b0260bbb148ac918e21f8443c8"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.x86_64-apple-darwin.tar.gz"
+    sha256 = "bd4cc702a646d7792e288edd4f94e0749130cece4bd34344cf7ae6c31f872e93"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.x86_64-apple-darwin.tar.gz"
 [[Zstd]]
 arch = "x86_64"
-git-tree-sha1 = "f7ee295b548ab3df8b28b6d67cd65b5eeef8dad1"
+git-tree-sha1 = "4db1e58d71ac6bbb35ecc832033264c630d5d3b3"
 libc = "glibc"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "32f4c7760bfcdf91c20811c51fb7062682baee9d74ecf4db7862b7fe4709d64e"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.x86_64-linux-gnu.tar.gz"
+    sha256 = "8b2d56159d22748eca8137d4df63699be3e01e3d788bd36f92c65750f8168dc6"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.x86_64-linux-gnu.tar.gz"
 [[Zstd]]
 arch = "x86_64"
-git-tree-sha1 = "8cc57f93ddc76c953a9c06bc613aac74f67351c6"
+git-tree-sha1 = "3066e8e5f8b04c7b81e9e81cb97b4baef17dbc6f"
 libc = "musl"
 os = "linux"
 
     [[Zstd.download]]
-    sha256 = "094a0ec94c625406aea976ddcda4b122d924822c7104bbdf320e47952469656a"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.x86_64-linux-musl.tar.gz"
+    sha256 = "8003477c375c538b892dacc8c8927ad4d7bde28306544f35783ebefa7debd95b"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.x86_64-linux-musl.tar.gz"
 [[Zstd]]
 arch = "x86_64"
-git-tree-sha1 = "c90c16fe66af6efe4bfebe98c69bc886b37f1d46"
+git-tree-sha1 = "d2b9cff447a709c24b2f66a6b772320f26345be9"
 os = "freebsd"
 
     [[Zstd.download]]
-    sha256 = "3f54867ad98090c828a14da9cd0f15e4a0def9e4d345162bfc40002b57e42db6"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0c5fea0e8000414d7ff915e3ff66374324346070e567b7c3da3f2452f381d95d"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.x86_64-unknown-freebsd.tar.gz"
 [[Zstd]]
 arch = "x86_64"
-git-tree-sha1 = "5c5dad3a9e04e2357b7ab2d23445a137de645423"
+git-tree-sha1 = "8e19ee77a5aed0ac3f6828efb9671b8c619cd27b"
 os = "windows"
 
     [[Zstd.download]]
-    sha256 = "c053fdda0b5fa422172fe8f2dda4bc8fe777291e36889b0859fa79cf454c05d8"
-    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+0/Zstd.v1.5.7.x86_64-w64-mingw32.tar.gz"
+    sha256 = "193b3d0e349a54c4fe30566bd2d225a20d11ffc2411180d1cd3ba81e803708d0"
+    url = "https://github.com/JuliaBinaryWrappers/Zstd_jll.jl/releases/download/Zstd-v1.5.7+1/Zstd.v1.5.7.x86_64-w64-mingw32.tar.gz"
